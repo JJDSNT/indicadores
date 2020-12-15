@@ -1,0 +1,2 @@
+# indicadores
+Indicadores para dashboard
